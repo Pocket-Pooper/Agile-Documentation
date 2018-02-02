@@ -9,7 +9,7 @@
 
 ## Project Description
 
-The Pocket Pooper is newest bathroom necessity. Make the most of your time on the toilet, while ensuring you don't spend a minute more than you need to dropping a deuce.
+The Pocket Pooper is newest bathroom necessity. Make the most of your time on the toilet, while ensuring you don't spend a minute more than you need.
 
 ## Problem statement
 
