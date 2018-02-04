@@ -1,0 +1,35 @@
+# Group Project Proposal
+
+## Group Members
+
+* [BJ Collins](https://github.com/collinsbj)
+* [Kevin Kingdon](https://github.com/kmkingdon)
+* [James Mann](https://github.com/mrsaxmannjr)
+* [Carolyn Selheim-Miller](https://github.com/CarolynSM)
+
+## Project Description
+
+NameTBD is a reading-centered productivity app that let's you catch up on the news without losing track of time. Users set a timer for how long they want to read, and are then served news articles based on their specified interests.
+
+## Problem statement
+
+Whether you're commuting, taking a break at work, or making the best of being ready for a party 15 minutes early, catching up on the news is great way to spend that time. But when you only have 10 or 15 minutes to spare, you often spend more time looking for an interested article than reading it. Before you know it, you've missed your train stop or become 15 minutes late. 
+
+## How will your project solve this problem? 
+
+NameTBD's timer keeps the user from losing track of how long they've been reading. Because the app creates an interest profile for new users, it generates quality content immediately so you can make the most of your time.
+
+## Map the user experience
+
+* For the user's first time using the app, they answer a few very simple questions to determine their content interests
+* User will specify how long they want the timer to run
+* To start, the user will simply hit a start button
+* The screen will populate with a curated article with an approximate read time matching the timer length
+* The bottom of the article will have a "next article" button for those who finish before the timer is up
+* When the timer is up, the user is notified that it's time to stop reading
+
+## What technologies do you plan to use?
+
+* Backend : PostgreSQL, Knex.js
+* Frontend: React.js
+* Libraries: Google News API
