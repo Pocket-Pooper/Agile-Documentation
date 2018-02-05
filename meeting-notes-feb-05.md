@@ -52,5 +52,5 @@ A reading productivity app that encourages users to read:
 * Accessability features (tech zoom) (Stretch)
 
 ## New Name
-
+Readativity
 
