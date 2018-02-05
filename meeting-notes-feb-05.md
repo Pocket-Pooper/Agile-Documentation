@@ -40,12 +40,12 @@ A reading productivity app that encourages users to read:
 
 ## Next Steps for Today
 
-Kevin & BJ
+### Kevin & BJ
 * Google News API
 * Interest Form
 * Database
 
-Carolyn & James
+### Carolyn & James
 * Homepage UI
 * Move reading page (iframe) from functional component to class component
 * Next button / skip button (on reading page) (Stretch)
