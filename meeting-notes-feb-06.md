@@ -6,3 +6,13 @@
 ## Next feature to work on
 * After the base stats dashboard is up and running, we'll look into adding a feature to set goals and measure progress against them
 * This will require updates to both the database and "new member" form
+
+## Future Features: 
+
+- Logout feature
+- Edit User Information
+- Auth updated (password confirm, username check)
+- Goal Setting
+- Accessibility
+- Gamify
+
