@@ -9,7 +9,7 @@
 
 ## Project Description
 
-NameTBD is a reading-centered productivity app that let's you catch up on the news without losing track of time. Users set a timer for how long they want to read, and are then served news articles based on their specified interests.
+Readativity is a reading-centered productivity app that let's you catch up on the news without losing track of time. Users set a timer for how long they want to read, and are then served news articles based on their specified interests.
 
 ## Problem statement
 
@@ -17,7 +17,7 @@ Whether you're commuting, taking a break at work, or making the best of being re
 
 ## How will your project solve this problem? 
 
-NameTBD's timer keeps the user from losing track of how long they've been reading. Because the app creates an interest profile for new users, it generates quality content immediately so you can make the most of your time.
+Readativity's timer keeps the user from losing track of how long they've been reading. Because the app creates an interest profile for new users, it generates quality content immediately so you can make the most of your time.
 
 ## Map the user experience
 
@@ -30,6 +30,6 @@ NameTBD's timer keeps the user from losing track of how long they've been readin
 
 ## What technologies do you plan to use?
 
-* Backend : PostgreSQL, Knex.js
-* Frontend: React.js
+* Backend : PostgreSQL, Knex.js, Heroku
+* Frontend: React.js, HTML5, CSS3, Heroku
 * Libraries: Google News API
